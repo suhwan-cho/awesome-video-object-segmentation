@@ -25,6 +25,8 @@ Any suggestions and requests are always welcomed :)
 
 
 ### 2023
+- **[READMem]** READMem: Robust Embedding Association for a Diverse Memory in Unconstrained Video Object Segmentation, *BMVC* [[arXiv]](https://arxiv.org/abs/2305.12823) [[Code]](https://github.com/Vujas-Eteph/READMem?tab=readme-ov-file)
+
 - **[XMem++]** XMem++: Production-level Video Segmentation From Few Annotated Frames, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Bekuzarov_XMem_Production-level_Video_Segmentation_From_Few_Annotated_Frames_ICCV_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2307.15958) [[Code]](https://github.com/max810/XMem2)
 
 - **[SimVOS]** Scalable Video Object Segmentation with Simplified Framework, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Scalable_Video_Object_Segmentation_with_Simplified_Framework_ICCV_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2308.09903) [[Code]](https://github.com/jimmy-dq/SimVOS)

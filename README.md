@@ -20,6 +20,10 @@ Any suggestions and requests are always welcomed :)
 
 ## Semi-Supervised VOS Papers
 ### 2024
+- **[Point-VOS]** Point-VOS: Pointing Up Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2402.05917) [[Page]](https://pointvos.github.io/)
+
+- **[Cutie]** Putting the Object Back into Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2310.12982) [[Code]](https://github.com/hkchengrex/Cutie)
+
 - **[DeVOS]** DeVOS: Flow-Guided Deformable Transformer for Video Object Segmentation, *WACV* [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Fedynyak_DeVos_Flow-Guided_Deformable_Transformer_for_Video_Object_Segmentation_WACV_2024_paper.pdf)
 
 
@@ -196,6 +200,15 @@ Any suggestions and requests are always welcomed :)
 
 
 ## Unsupervised VOS Papers
+### 2024
+- **[DPA]** Dual Prototype Attention for Unsupervised Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2211.12036) [[Code]](https://github.com/Hydragon516/DPA)
+
+- **[GSA-Net]** Guided Slot Attention for Unsupervised Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2303.08314) [[Code]](https://github.com/Hydragon516/GSANet)
+
+- **[DATTT]** Depth-aware Test-Time Training for Zero-shot Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2403.04258) [[Code]](https://github.com/NiFangBaAGe/DATTT)
+
+
+
 ### 2023
 - **[SimulFlow]** SimulFlow: Simultaneously Extracting Feature and Identifying Target for Unsupervised Video Object Segmentation, *ACMMM* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3611804) [[arXiv]](https://arxiv.org/abs/2311.18286)
 
@@ -279,6 +292,8 @@ Any suggestions and requests are always welcomed :)
 
 ## Referring VOS Papers
 ### 2024
+- **[LoSh]** LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2306.08736) [[Code]](https://github.com/LinfengYuan1997/LoSh)
+
 - **[TCE-RVOS]** Temporal Context Enhanced Referring Video Object Segmentation, *WACV* [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Temporal_Context_Enhanced_Referring_Video_Object_Segmentation_WACV_2024_paper.pdf) [[Code]](https://github.com/haliphinx/TCE-RVOS)
 
 

@@ -207,6 +207,7 @@ Any suggestions and requests are always welcomed :)
 
 - **[DATTT]** Depth-aware Test-Time Training for Zero-shot Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2403.04258) [[Code]](https://github.com/NiFangBaAGe/DATTT)
 
+- **[GFA]** Generalizable Fourier Augmentation for Unsupervised Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28295/28581)
 
 
 ### 2023
@@ -293,6 +294,8 @@ Any suggestions and requests are always welcomed :)
 ## Referring VOS Papers
 ### 2024
 - **[LoSh]** LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2306.08736) [[Code]](https://github.com/LinfengYuan1997/LoSh)
+
+- **[MUTR]** Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28465/28905) [[arXiv]](https://arxiv.org/abs/2305.16318) [[Code]](https://github.com/OpenGVLab/MUTR)
 
 - **[TCE-RVOS]** Temporal Context Enhanced Referring Video Object Segmentation, *WACV* [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Temporal_Context_Enhanced_Referring_Video_Object_Segmentation_WACV_2024_paper.pdf) [[Code]](https://github.com/haliphinx/TCE-RVOS)
 

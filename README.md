@@ -20,9 +20,11 @@ Any suggestions and requests are always welcomed :)
 
 ## Semi-Supervised VOS Papers
 ### 2024
-- **[Point-VOS]** Point-VOS: Pointing Up Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2402.05917) [[Page]](https://pointvos.github.io/)
+- **[RMem]** RMem: Restricted Memory Banks Improve Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_RMem_Restricted_Memory_Banks_Improve_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2406.08476) [[Page]](https://restricted-memory.github.io/)
 
-- **[Cutie]** Putting the Object Back into Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2310.12982) [[Code]](https://github.com/hkchengrex/Cutie)
+- **[Point-VOS]** Point-VOS: Pointing Up Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Mahadevan_Point-VOS_Pointing_Up_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2402.05917) [[Page]](https://pointvos.github.io/)
+
+- **[Cutie]** Putting the Object Back into Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_Putting_the_Object_Back_into_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2310.12982) [[Code]](https://github.com/hkchengrex/Cutie)
 
 - **[DeVOS]** DeVOS: Flow-Guided Deformable Transformer for Video Object Segmentation, *WACV* [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Fedynyak_DeVos_Flow-Guided_Deformable_Transformer_for_Video_Object_Segmentation_WACV_2024_paper.pdf)
 
@@ -201,11 +203,11 @@ Any suggestions and requests are always welcomed :)
 
 ## Unsupervised VOS Papers
 ### 2024
-- **[DPA]** Dual Prototype Attention for Unsupervised Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2211.12036) [[Code]](https://github.com/Hydragon516/DPA)
+- **[DPA]** Dual Prototype Attention for Unsupervised Video Object Segmentation, *CVPR* [[Code]](https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_Dual_Prototype_Attention_for_Unsupervised_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2211.12036) [[Code]](https://github.com/Hydragon516/DPA)
 
-- **[GSA-Net]** Guided Slot Attention for Unsupervised Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2303.08314) [[Code]](https://github.com/Hydragon516/GSANet)
+- **[GSA-Net]** Guided Slot Attention for Unsupervised Video Object Segmentation, *CVPR* [[Code]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Guided_Slot_Attention_for_Unsupervised_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2303.08314) [[Code]](https://github.com/Hydragon516/GSANet)
 
-- **[DATTT]** Depth-aware Test-Time Training for Zero-shot Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2403.04258) [[Code]](https://github.com/NiFangBaAGe/DATTT)
+- **[DATTT]** Depth-aware Test-Time Training for Zero-shot Video Object Segmentation, *CVPR* [[Code]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Depth-aware_Test-Time_Training_for_Zero-shot_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2403.04258) [[Code]](https://github.com/NiFangBaAGe/DATTT)
 
 - **[GFA]** Generalizable Fourier Augmentation for Unsupervised Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28295/28581)
 
@@ -293,7 +295,7 @@ Any suggestions and requests are always welcomed :)
 
 ## Referring VOS Papers
 ### 2024
-- **[LoSh]** LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation, *CVPR* [[arXiv]](https://arxiv.org/abs/2306.08736) [[Code]](https://github.com/LinfengYuan1997/LoSh)
+- **[LoSh]** LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_LoSh_Long-Short_Text_Joint_Prediction_Network_for_Referring_Video_Object_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2306.08736) [[Code]](https://github.com/LinfengYuan1997/LoSh)
 
 - **[MUTR]** Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28465/28905) [[arXiv]](https://arxiv.org/abs/2305.16318) [[Code]](https://github.com/OpenGVLab/MUTR)
 
@@ -343,6 +345,8 @@ Any suggestions and requests are always welcomed :)
 
 ## Other Related Papers
 ### 2024
+- **[LLE-VOS]** Event-assisted Low-Light Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Event-assisted_Low-Light_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2404.01945) [[Code]](https://github.com/HebeiFast/EventLowLightVOS)
+
 - **[EVA-VOS]** Learning the What and How of Annotation in Video Object Segmentation, *WACV* [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Delatolas_Learning_the_What_and_How_of_Annotation_in_Video_Object_WACV_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2311.04414) [[Code]](https://github.com/thanosDelatolas/eva-vos)
 
 

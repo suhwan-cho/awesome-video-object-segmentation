@@ -203,11 +203,11 @@ Any suggestions and requests are always welcomed :)
 
 ## Unsupervised VOS Papers
 ### 2024
-- **[DPA]** Dual Prototype Attention for Unsupervised Video Object Segmentation, *CVPR* [[Code]](https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_Dual_Prototype_Attention_for_Unsupervised_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2211.12036) [[Code]](https://github.com/Hydragon516/DPA)
+- **[DPA]** Dual Prototype Attention for Unsupervised Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_Dual_Prototype_Attention_for_Unsupervised_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2211.12036) [[Code]](https://github.com/Hydragon516/DPA)
 
-- **[GSA-Net]** Guided Slot Attention for Unsupervised Video Object Segmentation, *CVPR* [[Code]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Guided_Slot_Attention_for_Unsupervised_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2303.08314) [[Code]](https://github.com/Hydragon516/GSANet)
+- **[GSA-Net]** Guided Slot Attention for Unsupervised Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Guided_Slot_Attention_for_Unsupervised_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2303.08314) [[Code]](https://github.com/Hydragon516/GSANet)
 
-- **[DATTT]** Depth-aware Test-Time Training for Zero-shot Video Object Segmentation, *CVPR* [[Code]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Depth-aware_Test-Time_Training_for_Zero-shot_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2403.04258) [[Code]](https://github.com/NiFangBaAGe/DATTT)
+- **[DATTT]** Depth-aware Test-Time Training for Zero-shot Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Depth-aware_Test-Time_Training_for_Zero-shot_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2403.04258) [[Code]](https://github.com/NiFangBaAGe/DATTT)
 
 - **[GFA]** Generalizable Fourier Augmentation for Unsupervised Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28295/28581)
 

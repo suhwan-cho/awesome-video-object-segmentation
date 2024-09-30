@@ -20,6 +20,10 @@ Any suggestions and requests are always welcomed :)
 
 ## Semi-Supervised VOS Papers
 ### 2024
+- **[STMA]** Spatial-Temporal Multi-level Association for Video Object Segmentation, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08391.pdf) [[arXiv]](https://arxiv.org/abs/2404.06265) [[Code]](https://github.com/yahooo-m/VOS-Solution)
+
+- **[OneVOS]** OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07505.pdf) [[arXiv]](https://arxiv.org/abs/2403.08682) [[Code]](https://github.com/L599wy/OneVOS)
+
 - **[RMem]** RMem: Restricted Memory Banks Improve Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_RMem_Restricted_Memory_Banks_Improve_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2406.08476) [[Page]](https://restricted-memory.github.io/)
 
 - **[Point-VOS]** Point-VOS: Pointing Up Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Mahadevan_Point-VOS_Pointing_Up_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2402.05917) [[Page]](https://pointvos.github.io/)
@@ -291,10 +295,14 @@ Any suggestions and requests are always welcomed :)
 
 
 
-
-
 ## Referring VOS Papers
 ### 2024
+- **[VISA]** VISA: Reasoning Video Object Segmentation via Large Language Models, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02307.pdf) [[arXiv]](https://arxiv.org/abs/2407.11325) [[Code]](https://github.com/cilinyan/VISA)
+
+- **[VD-IT]** Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01985.pdf) [[arXiv]](https://arxiv.org/abs/2403.12042) [[Code]](https://github.com/buxiangzhiren/VD-IT)
+
+- **[ActionVOS]** ActionVOS: Actions as Prompts for Video Object Segmentation, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01553.pdf) [[arXiv]](https://arxiv.org/abs/2407.07402) [[Code]](https://github.com/ut-vision/ActionVOS)
+
 - **[LoSh]** LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_LoSh_Long-Short_Text_Joint_Prediction_Network_for_Referring_Video_Object_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2306.08736) [[Code]](https://github.com/LinfengYuan1997/LoSh)
 
 - **[MUTR]** Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28465/28905) [[arXiv]](https://arxiv.org/abs/2305.16318) [[Code]](https://github.com/OpenGVLab/MUTR)
@@ -345,6 +353,8 @@ Any suggestions and requests are always welcomed :)
 
 ## Other Related Papers
 ### 2024
+- **[BA]** Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06142.pdf) [[arXiv]](https://arxiv.org/abs/2311.17893) [[Code]](https://github.com/shvdiwnkozbw/SSL-UVOS)
+
 - **[LLE-VOS]** Event-assisted Low-Light Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Event-assisted_Low-Light_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2404.01945) [[Code]](https://github.com/HebeiFast/EventLowLightVOS)
 
 - **[EVA-VOS]** Learning the What and How of Annotation in Video Object Segmentation, *WACV* [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Delatolas_Learning_the_What_and_How_of_Annotation_in_Video_Object_WACV_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2311.04414) [[Code]](https://github.com/thanosDelatolas/eva-vos)

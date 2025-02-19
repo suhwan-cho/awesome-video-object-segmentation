@@ -303,6 +303,8 @@ Any suggestions and requests are always welcomed :)
 
 - **[ActionVOS]** ActionVOS: Actions as Prompts for Video Object Segmentation, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01553.pdf) [[arXiv]](https://arxiv.org/abs/2407.07402) [[Code]](https://github.com/ut-vision/ActionVOS)
 
+- **[DsHmp]** Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Decoupling_Static_and_Hierarchical_Motion_Perception_for_Referring_Video_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2404.03645) [[Code]](https://github.com/heshuting555/DsHmp)
+
 - **[LoSh]** LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_LoSh_Long-Short_Text_Joint_Prediction_Network_for_Referring_Video_Object_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2306.08736) [[Code]](https://github.com/LinfengYuan1997/LoSh)
 
 - **[MUTR]** Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28465/28905) [[arXiv]](https://arxiv.org/abs/2305.16318) [[Code]](https://github.com/OpenGVLab/MUTR)

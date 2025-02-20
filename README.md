@@ -316,6 +316,8 @@ Any suggestions and requests are always welcomed :)
 ### 2023
 - **[SOC]** SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation, *NeurIPS* [[Paper]](https://openreview.net/pdf?id=KQyXyIAfK8) [[arXiv]](https://arxiv.org/abs/2305.17011) [[Page]](https://github.com/RobertLuo1/NeurIPS2023_SOC)
 
+- **[LMPM]** MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ding_MeViS_A_Large-scale_Benchmark_for_Video_Segmentation_with_Motion_Expressions_ICCV_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2308.08544) [[Code]](https://github.com/henghuiding/MeViS)
+
 - **[HTML]** HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Han_HTML_Hybrid_Temporal-scale_Multimodal_Learning_Framework_for_Referring_Video_Object_ICCV_2023_paper.pdf) [[Page]](https://mingfei.info/HTML)
 
 - **[OnlineRefer]** OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_OnlineRefer_A_Simple_Online_Baseline_for_Referring_Video_Object_Segmentation_ICCV_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2307.09356) [[Code]](https://github.com/wudongming97/OnlineRefer)

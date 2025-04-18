@@ -19,6 +19,16 @@ Any suggestions and requests are always welcomed :)
 
 
 ## Semi-Supervised VOS Papers
+
+### 2025
+- **[HCNet]** Holistic Correction with Object Prototype for Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32706/34861)
+
+
+- **[MAVOS]** Efficient Video Object Segmentation via Modulated Cross-Attention Memory, *WACV* [[Paper]](https://openaccess.thecvf.com/content/WACV2025/papers/Shaker_Efficient_Video_Object_Segmentation_via_Modulated_Cross-Attention_Memory_WACV_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2403.17937) [[Code]](https://github.com/Amshaker/MAVOS)
+
+
+
+
 ### 2024
 - **[STMA]** Spatial-Temporal Multi-level Association for Video Object Segmentation, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08391.pdf) [[arXiv]](https://arxiv.org/abs/2404.06265) [[Code]](https://github.com/yahooo-m/VOS-Solution)
 
@@ -356,6 +366,15 @@ Any suggestions and requests are always welcomed :)
 
 
 ## Other Related Papers
+
+### 2025
+- **[PALN]** Beyond Pixel and Object: Part Feature as Reference for Few-Shot Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32626/34781) 
+
+
+- **[MUG-VOS]** Multi-Granularity Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32552/34707) [[arXiv]](https://arxiv.org/abs/2412.01471) [[Code]](https://github.com/cvlab-kaist/MUG-VOS)
+
+
+
 ### 2024
 - **[BA]** Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06142.pdf) [[arXiv]](https://arxiv.org/abs/2311.17893) [[Code]](https://github.com/shvdiwnkozbw/SSL-UVOS)
 

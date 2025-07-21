@@ -21,6 +21,12 @@ Any suggestions and requests are always welcomed :)
 ## Semi-Supervised VOS Papers
 
 ### 2025
+- **[LiVOS]** LiVOS: Light Video Object Segmentation with Gated Linear Matching, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_LiVOS_Light_Video_Object_Segmentation_with_Gated_Linear_Matching_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2411.02818) [[Page]](https://github.com/uncbiag/LiVOS)
+
+
+- **[M3-VOS]** M^3-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_M3-VOS_Multi-Phase_Multi-Transition_and_Multi-Scenery_Video_Object_Segmentation_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2412.13803) [[Page]](https://zixuan-chen.github.io/M-cube-VOS.github.io/)
+
+
 - **[HCNet]** Holistic Correction with Object Prototype for Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32706/34861)
 
 
@@ -306,6 +312,20 @@ Any suggestions and requests are always welcomed :)
 
 
 ## Referring VOS Papers
+### 2025
+- **[GLUS]** GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_GLUS_Global-Local_Reasoning_Unified_into_A_Single_Large_Language_Model_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2504.07962) [[Page]](https://glus-video.github.io/)
+
+
+- **[SAMWISE]** SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Cuttano_SAMWISE_Infusing_Wisdom_in_SAM2_for_Text-Driven_Video_Segmentation_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2411.17646) [[Page]](https://claudiacuttano.github.io/SAMWISE/)
+
+
+- **[DMVS]** Decoupled Motion Expression Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Decoupled_Motion_Expression_Video_Segmentation_CVPR_2025_paper.pdf)
+
+
+- **[SSA]** Semantic and Sequential Alignment for Referring Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Pan_Semantic_and_Sequential_Alignment_for_Referring_Video_Object_Segmentation_CVPR_2025_paper.pdf) [[Code]](https://github.com/tavarich/SSA)
+
+
+
 ### 2024
 - **[VISA]** VISA: Reasoning Video Object Segmentation via Large Language Models, *ECCV* [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02307.pdf) [[arXiv]](https://arxiv.org/abs/2407.11325) [[Code]](https://github.com/cilinyan/VISA)
 
@@ -368,6 +388,9 @@ Any suggestions and requests are always welcomed :)
 ## Other Related Papers
 
 ### 2025
+- **[SAM-I2V]** SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Mei_SAM-I2V_Upgrading_SAM_to_Support_Promptable_Video_Segmentation_with_Less_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2506.01304) [[Code]](https://github.com/showlab/SAM-I2V)
+
+
 - **[PALN]** Beyond Pixel and Object: Part Feature as Reference for Few-Shot Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32626/34781) 
 
 

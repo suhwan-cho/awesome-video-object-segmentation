@@ -21,14 +21,14 @@ Any suggestions and requests are always welcomed :)
 ## Semi-Supervised VOS Papers
 
 ### 2025
-- **[LiVOS]** LiVOS: Light Video Object Segmentation with Gated Linear Matching, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_LiVOS_Light_Video_Object_Segmentation_with_Gated_Linear_Matching_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2411.02818) [[Page]](https://github.com/uncbiag/LiVOS)
 
+- **[OASIS]** Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_Structure_Matters_Revisiting_Boundary_Refinement_in_Video_Object_Segmentation_ICCV_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2507.18944) [[Code]](https://github.com/jinlab-imvr/OASIS)
+
+- **[LiVOS]** LiVOS: Light Video Object Segmentation with Gated Linear Matching, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_LiVOS_Light_Video_Object_Segmentation_with_Gated_Linear_Matching_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2411.02818) [[Page]](https://github.com/uncbiag/LiVOS)
 
 - **[M3-VOS]** M^3-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_M3-VOS_Multi-Phase_Multi-Transition_and_Multi-Scenery_Video_Object_Segmentation_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2412.13803) [[Page]](https://zixuan-chen.github.io/M-cube-VOS.github.io/)
 
-
 - **[HCNet]** Holistic Correction with Object Prototype for Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32706/34861)
-
 
 - **[MAVOS]** Efficient Video Object Segmentation via Modulated Cross-Attention Memory, *WACV* [[Paper]](https://openaccess.thecvf.com/content/WACV2025/papers/Shaker_Efficient_Video_Object_Segmentation_via_Modulated_Cross-Attention_Memory_WACV_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2403.17937) [[Code]](https://github.com/Amshaker/MAVOS)
 
@@ -222,6 +222,15 @@ Any suggestions and requests are always welcomed :)
 
 
 ## Unsupervised VOS Papers
+
+### 2025
+
+- **[DepthFlow]** DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation, *ICCVW* [[Paper]](https://openaccess.thecvf.com/content/ICCV2025W/LSVOS/papers/Cho_DepthFlow_Exploiting_Depth-Flow_Structural_Correlations_for_Unsupervised_Video_Object_Segmentation_ICCVW_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2507.19790) [[Code]](https://github.com/suhwan-cho/DepthFlow)
+
+- **[TransFlow]** TransFlow: Motion Knowledge Transfer from Video Diffusion Models to Video Salient Object Detection, *ICCVW* [[Paper]](https://openaccess.thecvf.com/content/ICCV2025W/LSVOS/papers/Cho_TransFlow_Motion_Knowledge_Transfer_from_Video_Diffusion_Models_to_Video_ICCVW_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2507.19789) [[Code]](https://github.com/suhwan-cho/TransFlow)
+
+
+
 ### 2024
 - **[DPA]** Dual Prototype Attention for Unsupervised Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_Dual_Prototype_Attention_for_Unsupervised_Video_Object_Segmentation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2211.12036) [[Code]](https://github.com/Hydragon516/DPA)
 
@@ -313,14 +322,18 @@ Any suggestions and requests are always welcomed :)
 
 ## Referring VOS Papers
 ### 2025
-- **[GLUS]** GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_GLUS_Global-Local_Reasoning_Unified_into_A_Single_Large_Language_Model_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2504.07962) [[Page]](https://glus-video.github.io/)
 
+- **[FindTrack]** Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation, *ICCVW* [[Paper]](https://openaccess.thecvf.com/content/ICCV2025W/LSVOS/papers/Cho_Find_First_Track_Next_Decoupling_Identification_and_Propagation_in_Referring_ICCVW_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2503.03492) [[Code]](https://github.com/suhwan-cho/FindTrack)
+
+- **[MPG-SAM 2]** MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Rong_MPG-SAM_2_Adapting_SAM_2_with_Mask_Priors_and_Global_ICCV_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2501.13667) [[Code]](https://github.com/rongfu-dsb/MPG-SAM2)
+
+- **[ReferDINO]** ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_ReferDINO_Referring_Video_Object_Segmentation_with_Visual_Grounding_Foundations_ICCV_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2501.14607) [[Code]](https://github.com/iSEE-Laboratory/ReferDINO)
+
+- **[GLUS]** GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_GLUS_Global-Local_Reasoning_Unified_into_A_Single_Large_Language_Model_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2504.07962) [[Page]](https://glus-video.github.io/)
 
 - **[SAMWISE]** SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Cuttano_SAMWISE_Infusing_Wisdom_in_SAM2_for_Text-Driven_Video_Segmentation_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2411.17646) [[Page]](https://claudiacuttano.github.io/SAMWISE/)
 
-
 - **[DMVS]** Decoupled Motion Expression Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Decoupled_Motion_Expression_Video_Segmentation_CVPR_2025_paper.pdf)
-
 
 - **[SSA]** Semantic and Sequential Alignment for Referring Video Object Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Pan_Semantic_and_Sequential_Alignment_for_Referring_Video_Object_Segmentation_CVPR_2025_paper.pdf) [[Code]](https://github.com/tavarich/SSA)
 
@@ -388,11 +401,14 @@ Any suggestions and requests are always welcomed :)
 ## Other Related Papers
 
 ### 2025
+
+- **[EVOLVE]** EVOLVE: Event-Guided Deformable Feature Transfer and Dual-Memory Refinement for Low-Light Video Object Segmentation, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Baek_EVOLVE_Event-Guided_Deformable_Feature_Transfer_and_Dual-Memory_Refinement_for_Low-Light_ICCV_2025_paper.pdf) [[Code]](https://github.com/whdgusdl48/EVOLVE)
+
+- **[MOVE]** MOVE: Motion-Guided Few-Shot Video Object Segmentation, *ICCV* [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Ying_MOVE_Motion-Guided_Few-Shot_Video_Object_Segmentation_ICCV_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2507.22061) [[Page]](https://henghuiding.com/MOVE/)
+
 - **[SAM-I2V]** SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation, *CVPR* [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Mei_SAM-I2V_Upgrading_SAM_to_Support_Promptable_Video_Segmentation_with_Less_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2506.01304) [[Code]](https://github.com/showlab/SAM-I2V)
 
-
 - **[PALN]** Beyond Pixel and Object: Part Feature as Reference for Few-Shot Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32626/34781) 
-
 
 - **[MUG-VOS]** Multi-Granularity Video Object Segmentation, *AAAI* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32552/34707) [[arXiv]](https://arxiv.org/abs/2412.01471) [[Code]](https://github.com/cvlab-kaist/MUG-VOS)
 
